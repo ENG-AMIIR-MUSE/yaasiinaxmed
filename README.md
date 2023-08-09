@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaasiinaxmed&label=Profile%20views&color=0e75b6&style=flat" alt="yaasiinaxmed" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yaasiin__ahmed" target="blank"><img src="https://img.shields.io/twitter/follow/yaasiin__ahmed?logo=twitter&style=for-the-badge" alt="yaasiin__ahmed" /></a> </p>
+[![committers.top badge](https://user-badge.committers.top/somalia/yaasiinaxmed.svg)](https://user-badge.committers.top/somalia/yaasiinaxmed)
+
 
 - 🔭 I’m currently working on [TenantCare App](https://github.com/TENANTCARE-TEAM/Tenant_Care_app)
 
