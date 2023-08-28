@@ -8,7 +8,7 @@
 [![committers.top badge](https://user-badge.committers.top/somalia/yaasiinaxmed.svg)](https://user-badge.committers.top/somalia/yaasiinaxmed)
 
 
-- 🔭 I’m currently working on [TenantCare App](https://github.com/TENANTCARE-TEAM/Tenant_Care_app)
+- 🔭 I’m currently working on [Amesa Solutions](https://amesasolutions.com)
 
 - 🌱 I’m currently learning **Nextjs and Node js**
 
