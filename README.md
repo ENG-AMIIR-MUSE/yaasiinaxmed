@@ -1,4 +1,4 @@
-<img width="100%" src="">
+<img width="100%" src="https://i.ibb.co/tZ4Cm4c/COVER.png">
 <h1 align="center">Hi 👋, I'm Yaasiin Ahmed</h1>
 <h3 align="center">A passionate Mern Stack developer from Somalia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/XXq1r46/Simple-Black-and-White-Text-Instagram-Post-1.gif">
