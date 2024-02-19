@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on [Amesa Solutions](https://amesasolutions.com)
 
-- 🌱 I’m currently learning **MERN STACK & FIREBASE**
+- 🌱 I'm planning to learn **NextJs & Typescript**
 
 - 👨‍💻 All of my projects are available at [https://yaasiinahmed.netlify.app/](https://yaasiinahmed.netlify.app/)
 
-- 💬 Ask me about **react js**
+- 💬 Ask me about **Mern Stack**
 
 - 📫 How to reach me **yaskasssoy@gmail.com**
 
-- 📄 Know about my experiences [https://yaasiinahmed.netlify.app/](https://yaasiinahmed.netlify.app/)
+- 📄 Know about my experiences [Amesa Solutions](https://amesasolutions.com/portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
