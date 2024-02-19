@@ -10,7 +10,7 @@
 
 - 🌱 I'm planning to learn **NextJs & Typescript**
 
-- 👨‍💻 All of my projects are available at [https://yaasiinahmed.netlify.app/](https://yaasiinahmed.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://amesasolutions.com/portfolio](https://amesasolutions.com/portfolio)
 
 - 💬 Ask me about **Mern Stack**
 
