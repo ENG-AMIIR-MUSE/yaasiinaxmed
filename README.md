@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **yaskasssoy@gmail.com**
 
-- 📄 Know about my experiences [Amesa Solutions](https://amesasolutions.com/portfolio)
+- 📄 Know about my experiences [Portfolio](https://bento.me/yasinahmed)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
