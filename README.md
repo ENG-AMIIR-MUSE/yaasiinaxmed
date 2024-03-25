@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **yaskasssoy@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://bento.me/yasinahmed)
+- 📄 Know about my experiences [Portfolio](https://yasinahmed.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
